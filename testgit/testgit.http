@@ -1,0 +1,6 @@
+@testgit_HostAddress = http://localhost:5171
+
+GET {{testgit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
